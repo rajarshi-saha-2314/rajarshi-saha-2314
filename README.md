@@ -15,7 +15,7 @@
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 **3rd Year B.Tech CSE student at NIT Warangal**
-- 🎯 *Full Stack Web Developer**
+- 🎯 *Full Stack Web Developer*
 - 🌱 Proficient in **Backend Development (Node.js, Express, MongoDB)**
 - 🛠 Strong foundation in **HTML, CSS, JavaScript**
 - 🚀 Passionate about **building real-world, scalable projects**
